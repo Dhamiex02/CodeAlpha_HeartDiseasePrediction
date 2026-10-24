@@ -146,7 +146,7 @@ jupyter
 
 ## Author
 
-**Dhamiex'**
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/Dhamiex02)
+**Fayemi Oluwadamilare'**
+[LinkedIn](https://www.linkedin.com/in/fayemi-oluwadamilare-a7a78a2a7) · [GitHub](https://github.com/Dhamiex02)
 
 Built as part of the CodeAlpha Machine Learning Internship.
